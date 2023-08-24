@@ -22,4 +22,4 @@ chmod +x yara_auto.sh
 Remplacez `<nom_signature>` par le nom souhaité pour votre signature YARA.
 
 
-Pour configurer les outils Auto-Yara et Loki, utiliser le script 'yara_install'.
+Pour configurer les outils Auto-Yara et Loki, utiliser le script `yara_install.sh`.
