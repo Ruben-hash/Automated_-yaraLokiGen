@@ -1,4 +1,6 @@
-# Automated_-yaraLokiGen# Configuration d'Auto-Yara et Loki
+# Automated_-yaraLokiGen# 
+
+Configuration d'Auto-Yara et Loki
 
 Ce dépôt contient un ensemble de scripts et de ressources pour configurer et utiliser les outils Auto-Yara et Loki, développés par Ruben de Hash.
 
